@@ -10,3 +10,13 @@
 * \* - Star
 * ( - Opening
 * ) - Ending 
+
+#Link
+* [Rune Gen](https://www.ultimate-bravery.net/)
+* [Discord](https://discord.com/)
+  
+#Emoji
+* 😴
+* 😒
+* 🥱
+
