@@ -20,3 +20,5 @@
 * 😒
 * 🥱
 
+#Keyboard Shortcuts
+- ctrl+shift+s \(screenshto)
