@@ -21,4 +21,4 @@
 * 🥱
 
 #Keyboard Shortcuts
-- ctrl+shift+s \(screenshto)
+- ctrl+shift+s screenshots
